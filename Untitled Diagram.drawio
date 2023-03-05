@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T11:38:14.826Z" agent="5.0 (Windows)" etag="drOGNqU2lONfoKrQd6b3" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T14:00:57.804Z" agent="5.0 (Windows)" etag="_OsDeR2hGWRIRyJEVL0k" version="21.0.2" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
     <mxGraphModel dx="1147" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="dhrtzmiCeqH5ldzsOlPu-10" value="&lt;div&gt;&lt;b&gt;Point&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;-datum&lt;/div&gt;&lt;div&gt;-elliposoide&lt;/div&gt;&lt;div&gt;-false_east&lt;/div&gt;&lt;div&gt;-false north&lt;/div&gt;...&lt;/div&gt;&lt;div&gt;-Grille Altimétrique&lt;/div&gt;&lt;div&gt;-ID_point&lt;/div&gt;&lt;div&gt;-local_coordinates&lt;/div&gt;&lt;div&gt;-geo_coordinates&lt;/div&gt;&lt;div&gt;-carte_coordinates&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="877" y="460" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="dhrtzmiCeqH5ldzsOlPu-37" value="&lt;div&gt;&lt;b&gt;Baselines&lt;/b&gt;&lt;/div&gt;&lt;div&gt;pt1&lt;/div&gt;&lt;div&gt;pt2&lt;/div&gt;&lt;div&gt;delta ; [East, North, alt]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dhrtzmiCeqH5ldzsOlPu-37" value="&lt;div&gt;&lt;b&gt;Baseline&lt;/b&gt;&lt;/div&gt;&lt;div&gt;pt1&lt;/div&gt;&lt;div&gt;pt2&lt;/div&gt;&lt;div&gt;delta ; [East, North, alt]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="877" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dhrtzmiCeqH5ldzsOlPu-39" value="&lt;div&gt;&lt;b&gt;GnssObservations&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ID_station&lt;/div&gt;&lt;div&gt;sat_observés&lt;/div&gt;&lt;div&gt;pseudo_dist&lt;/div&gt;&lt;div&gt;type = &quot;base ou mobile&quot;&lt;/div&gt;&lt;div&gt;observation_range&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-def baseline_processing&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="dhrtzmiCeqH5ldzsOlPu-43" value="&lt;div&gt;&lt;b&gt;Antenna&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Antenna_name&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="730" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dhrtzmiCeqH5ldzsOlPu-47" value="pas mal pour épurer le stockage dedonnées" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="310" height="50" as="geometry" />
         </mxCell>
         <object label="parent classes" id="dhrtzmiCeqH5ldzsOlPu-36">
           <mxCell parent="0" />
