@@ -1,7 +1,0 @@
-approx 485051980 : 48.067598115   0.154694596  109.9463
-
-approx brmz : 48.001450472   0.477504208  158.1729
-
-approx man2 : 48.018613646   0.155281861  167.9295
-
-c'est bien un conversion de geocentrique vers geographique des données entrées après -r
