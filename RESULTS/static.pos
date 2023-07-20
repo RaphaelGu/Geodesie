@@ -1,0 +1,26 @@
+% program   : RTKLIB ver.2.4.2
+% inp file  : \\srv-stj-data\quarta\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\1-DONNEES\1169052a.23o
+% inp file  : \\srv-stj-data\quarta\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\1-DONNEES\mach052z.23o
+% inp file  : \\srv-stj-data\quarta\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\1-DONNEES\mach052z.23n
+% obs start : 2023/02/21 07:43:02.0 GPST (week2250 200582.0s)
+% obs end   : 2023/02/21 10:50:04.0 GPST (week2250 211804.0s)
+% pos mode  : static
+% freqs     : L1+L2
+% solution  : forward
+% elev mask : 10.0 deg
+% dynamics  : off
+% tidecorr  : off
+% ionos opt : broadcast
+% tropo opt : saastamoinen
+% ephemeris : broadcast
+% navi sys  : gps glonass
+% amb res   : fix and hold
+% amb glo   : on
+% val thres : 3.0
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+% antenna2  :                       ( 0.0000  0.0000  0.0000)
+% ref pos   : 46.978204398  -1.802849330   64.5583
+%
+% (e/n/u-baseline=WGS84,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  e-baseline(m)  n-baseline(m)  u-baseline(m)   Q  ns   sde(m)   sdn(m)   sdu(m)  sden(m)  sdnu(m)  sdue(m) age(s)  ratio
+2023/02/21 07:43:02.000     21811.3147     27178.8924      -102.7733   2   7   0.0012   0.0009   0.0014   0.0005  -0.0009  -0.0006   4.00    1.0

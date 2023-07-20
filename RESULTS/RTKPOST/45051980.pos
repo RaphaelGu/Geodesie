@@ -1,0 +1,24 @@
+% program   : RTKPOST ver.2.4.2
+% inp file  : G:\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\2-PROCESS\RTKLIB\Geodesie\DATA\MILESSE\rover\45051980.23o
+% inp file  : G:\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\2-PROCESS\RTKLIB\Geodesie\DATA\MILESSE\base\arna198z.23o
+% inp file  : G:\11-SERVICE_SUPPORT\11-2_METH_ET_INNO\2023\8971-Calculs_GNSS_IGN\2-PROCESS\RTKLIB\Geodesie\DATA\MILESSE\base\arna198z.23n
+% obs start : 2023/07/17 13:58:40.0 GPST (week2271 136720.0s)
+% obs end   : 2023/07/17 15:07:20.0 GPST (week2271 140840.0s)
+% pos mode  : static
+% freqs     : L1+L2
+% solution  : forward
+% elev mask : 10.0 deg
+% dynamics  : off
+% tidecorr  : off
+% ionos opt : broadcast
+% tropo opt : saastamoinen
+% ephemeris : broadcast
+% amb res   : fix and hold
+% val thres : 3.0
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+% antenna2  :                       ( 0.0000  0.0000  0.0000)
+% ref pos   : 47.946518166    0.180895683    96.7462
+%
+% (e/n/u-baseline=WGS84,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  e-baseline(m)  n-baseline(m)  u-baseline(m)   Q  ns   sde(m)   sdn(m)   sdu(m)  sden(m)  sdnu(m)  sdue(m) age(s)  ratio
+2023/07/17 13:58:40.000     -1952.7317     13463.4885         0.1488   1   6   0.0003   0.0004   0.0008   0.0001  -0.0002   0.0000   0.00  271.4
